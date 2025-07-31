@@ -17,4 +17,4 @@ Run the main method in Main class. Input your Exercism username through the cons
 
 ## Performance
 
-While testing, it took 10 minutes to download 151 solutions with the average of 2~3 iterations for each.
+While testing, it took 10 minutes to download 151 solutions with the average of 2~3 iterations for each. You can see the test video here: https://drive.google.com/file/d/13xr6X3vj0_0hBIpX5gQ3XBvDeX4gdKPR/view?usp=drive_link
